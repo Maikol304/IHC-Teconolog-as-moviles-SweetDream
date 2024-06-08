@@ -42,4 +42,33 @@
     </div>
     <script src="scripts.js"></script>
 </body>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Técnicas de Relajación e Infusiones - AdopetConfia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <h2>Técnicas de Relajación</h2>
+            <ul>
+                <li>Técnica de Respiración Profunda</li>
+                <li>Meditación Guiada</li>
+                <li>Ejercicios de Estiramiento</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Infusiones para Dormir Mejor</h2>
+            <ul>
+                <li>Manzanilla</li>
+                <li>Lavanda</li>
+                <li>Valeriana</li>
+            </ul>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
 </html>
+
